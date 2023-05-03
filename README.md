@@ -1,2 +1,1 @@
-# phy
-Her are some code 
+Print("Hello world")
